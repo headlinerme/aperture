@@ -105,10 +105,11 @@ body {
 }
 
 .products-cards {
-    margin: 0 auto;
-    display: grid;
-    grid-template-columns: 48% 48%;
-    justify-content: space-around;
+    display: flex;
+}
+
+.cards-column1 {
+    margin-right: 1%;
 }
 
 .product-card1, .product-card2, .product-card3, .product-card4 {
