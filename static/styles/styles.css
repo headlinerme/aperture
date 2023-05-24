@@ -105,10 +105,9 @@ body {
 }
 
 .products-cards {
-    text-align: center;
     margin: 0 auto;
     display: grid;
-    grid-template-columns: 49% 49%;
+    grid-template-columns: 48% 48%;
     justify-content: space-around;
 }
 
