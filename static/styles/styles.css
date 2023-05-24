@@ -109,7 +109,7 @@ body {
     margin: 0 auto;
     display: grid;
     grid-template-columns: 49% 49%;
-    justify-content: space-between;
+    justify-content: space-around;
 }
 
 .product-card1, .product-card2, .product-card3, .product-card4 {
